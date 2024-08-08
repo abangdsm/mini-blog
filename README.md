@@ -1,3 +1,15 @@
+<div align="center">
+    <p>
+        <a href="#">
+            <img src="https://img.shields.io/badge/DSM-Web_Developer-green
+            " alt="Default"/>
+        </a>
+        <a href="https://www.youtube.com/@dwistarmuda">
+            <img src="https://img.shields.io/youtube/channel/views/UCRedcJdUuUsEMNVRANISM3g?style=plastic" target="_blank" alt="Youtube Channel"/>
+        </a>
+    </p>
+</div>
+
 # Mini Blog
 
 Membuat aplikasi blog sederhana dengan Laravel 11 dan Filament V3.
