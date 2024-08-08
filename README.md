@@ -65,8 +65,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 # The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-# mini-blog
+# Mini Blog
 
 Membuat aplikasi blog sederhana dengan Laravel 11 dan Filament V3.
-
-> > > > > > > ddcd2dae3f9f573d00748cd4f11b67cbc9d75e3e
