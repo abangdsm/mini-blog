@@ -6,7 +6,7 @@ Membuat aplikasi blog sederhana dengan Laravel 11 dan Filament V3.
 
 -   [Laravel v11.x][laravel].
 -   [Filament v3.x][filament].
--   [Bootstrap v5.3][bootstrap].
+-   [Bootstrap v5.x][bootstrap].
 
 ## Pembaruan Versi
 
@@ -15,7 +15,7 @@ Membuat aplikasi blog sederhana dengan Laravel 11 dan Filament V3.
 
 ## About Developer
 
-###**DWI STAR MUDA**
+> DWI STAR MUDA
 
 -   [WhatsApp][whatsapp].
 -   [Facebook][facebook].
