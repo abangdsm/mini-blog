@@ -68,3 +68,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 # Mini Blog
 
 Membuat aplikasi blog sederhana dengan Laravel 11 dan Filament V3.
+
+### Tech Stack
+
+-   [Filament V.3](https://filamentphp.com/)
+
+## Pembaruan Versi
+
+-   Menambahkan Route Home dan About.
