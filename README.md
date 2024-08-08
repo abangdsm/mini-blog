@@ -1,11 +1,8 @@
 <div align="center">
-    <p>
-        <a href="#">
-            <img src="https://img.shields.io/badge/DSM-Web_Developer-green
-            " alt="Default"/>
-        </a>
+    <p>Youtube
         <a href="https://www.youtube.com/@dwistarmuda">
-            <img src="https://img.shields.io/youtube/channel/views/UCRedcJdUuUsEMNVRANISM3g?style=plastic" target="_blank" alt="Youtube Channel"/>
+            <img src="https://img.shields.io/youtube/channel/views/UCRedcJdUuUsEMNVRANISM3g?style=plastic&logo=youtube&logoColor=red
+            " target="_blank" alt="Youtube Channel"/>
         </a>
     </p>
 </div>
