@@ -1,8 +1,7 @@
 <div align="center">
     <p>Youtube
         <a href="https://www.youtube.com/@dwistarmuda">
-            <img src="https://img.shields.io/youtube/channel/views/UCRedcJdUuUsEMNVRANISM3g?style=plastic
-            " target="_blank" alt="Youtube Channel"/>
+            <img src="https://img.shields.io/youtube/channel/views/UCRedcJdUuUsEMNVRANISM3g?style=plastic&logo=youtube" alt="Youtube Channel"/>
         </a>
     </p>
 </div>
