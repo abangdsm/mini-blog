@@ -1,6 +1,6 @@
 <div align="center">
-    <p>Youtube
-        <a href="https://www.youtube.com/@dwistarmuda">
+    <p>
+        <a href="https://www.youtube.com/@dwistarmuda">Youtube 
             <img src="https://img.shields.io/youtube/channel/views/UCRedcJdUuUsEMNVRANISM3g?style=plastic&logo=youtube" alt="Youtube Channel"/>
         </a>
     </p>
